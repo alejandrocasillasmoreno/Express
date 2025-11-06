@@ -44,7 +44,8 @@ Asegúrate de tener **Node.js** y **npm** (Node Package Manager) instalados en t
 ```bash
 git clone [https://github.com/alejandrocasillasmoreno/Express.git](https://github.com/alejandrocasillasmoreno/Express.git)
 cd Express```
-### 2. Instalar dependenciasInstala todas las librerías necesarias definidas en package.json:Bashnpm install
+### 2. Instalar dependencias
+Instala todas las librerías necesarias definidas en package.json:Bashnpm install
 ▶️ Uso (Ejecución de la Aplicación)Para poner en marcha el servidor de desarrollo local:Bash# Inicia el servidor usando el script definido en package.json (opción recomendada)
 npm start 
 
